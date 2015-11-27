@@ -1,4 +1,6 @@
-- 关于我们
-    - [关于极客学院](about-us.md)
-    - [关于极客学院 Wiki](about-wiki.md)
+- 简介
+    - [欢迎](about-us.md)
+    - [起步](about-wiki.md)
+    - [相关网站](about-wiki.md)
+    - [约定]
 - [联系我们](contact.md)
