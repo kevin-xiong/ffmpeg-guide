@@ -1,4 +1,4 @@
 - 简介
     - [欢迎](welcome.md)
     - [起步](first.md)
-- 1. FFmpeg基础(FFmpeg_Fundamentals.md)
+- [1. FFmpeg基础](FFmpeg_Fundamentals.md)
